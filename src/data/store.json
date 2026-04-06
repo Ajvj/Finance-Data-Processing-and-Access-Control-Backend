@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "System Admin",
+      "email": "admin@finance.local",
+      "passwordHash": "$2a$10$Y.4h8jDMFuKxzIPs9lvon.knUAqfvU5Vxu7QKz/SIBBY4lp1n0FoW",
+      "role": "admin",
+      "status": "active",
+      "createdAt": "2026-04-01T10:34:26.381Z"
+    }
+  ],
+  "records": [
+    {
+      "id": 1,
+      "amount": 1000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-04-03",
+      "notes": "",
+      "createdBy": 1,
+      "createdAt": "2026-04-03T11:39:25.092Z",
+      "updatedAt": "2026-04-03T11:39:25.092Z",
+      "deleted": false
+    },
+    {
+      "id": 2,
+      "amount": 1000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-04-03",
+      "notes": "",
+      "createdBy": 1,
+      "createdAt": "2026-04-03T11:40:15.408Z",
+      "updatedAt": "2026-04-03T11:40:15.408Z",
+      "deleted": false
+    }
+  ]
+}
