@@ -100,6 +100,11 @@ Create record body:
 - Request body validation via Zod
 - Appropriate status codes (`400`, `401`, `403`, `404`, `409`, `500`)
 - Consistent JSON error responses
+- ## API Documentation
+
+Full API documentation with request examples and expected responses is available here:
+
+[View Here](https://documenter.getpostman.com/view/52408537/2sBXiqFpB8)
 
 ## Assumptions
 - Authentication is email/password login with JWT
